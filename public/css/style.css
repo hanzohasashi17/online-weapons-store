@@ -1,0 +1,18 @@
+a.my-button {
+    width: 100%;
+    margin: 5px 0;
+    display: block !important;
+}
+
+div.weapon-item {
+    margin: 10px 0;
+}
+
+.weapon-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.auth-form {
+    margin: 0 auto;
+}
